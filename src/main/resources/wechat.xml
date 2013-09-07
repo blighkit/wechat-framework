@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wechat>
+    <bean class="com.hml520.handle.SubscribeHandle"/>
+    <bean class="com.hml520.handle.WelcomeHandle"/>
+</wechat>
